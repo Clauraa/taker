@@ -4648,3 +4648,15 @@
 6/6/2025 | 4:34:13 AM | INFO | Trying to check user miner status... 
 6/6/2025 | 4:34:14 AM | INFO | Last mining time: 6/5/2025, 4:34:21 AM
 6/6/2025 | 4:34:14 AM | WARN | Mining already started, next mining time is: 6/6/2025, 4:34:21 AM
+6/6/2025 | 8:33:50 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/6/2025 | 8:33:51 AM | INFO | Start process for wallet 0xA7C06702dA300cd7BEf76da0C669Bc46a03971a1 
+6/6/2025 | 8:33:51 AM | INFO | Trying To Login for wallet: 0xA7C06702dA300cd7BEf76da0C669Bc46a03971a1 
+6/6/2025 | 8:33:52 AM | INFO | Login successful... 
+6/6/2025 | 8:33:52 AM | INFO | Trying to check user info... 
+6/6/2025 | 8:33:53 AM | INFO | User ID: 103510865 | Twitter: @clauraa_e | Total Points: 1802680 
+6/6/2025 | 8:33:53 AM | INFO | Trying to check user miner status... 
+6/6/2025 | 8:33:53 AM | INFO | Last mining time: 6/5/2025, 4:34:21 AM
+6/6/2025 | 8:33:53 AM | INFO | Trying to start Mining for wallet: 0xA7C06702dA300cd7BEf76da0C669Bc46a03971a1 
+6/6/2025 | 8:33:54 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/6/2025 | 8:33:54 AM | INFO | Trying to activate mining on-chain for wallet: 0xA7C06702dA300cd7BEf76da0C669Bc46a03971a1 
+6/6/2025 | 8:34:05 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0b07d70c349f67559188151144f387fdb8889b74f03b5e8d7305b77d100909eb 
